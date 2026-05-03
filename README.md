@@ -137,7 +137,8 @@ Created for geospatial analysis and earthquake pattern research.
 
 ## License
 
-See project documentation for licensing details.
+This is Kaggle's public dataset and analysis project. 
+Please refer to Kaggle's terms of use for data and code usage.
 
 ## LAST UPDATED
 
