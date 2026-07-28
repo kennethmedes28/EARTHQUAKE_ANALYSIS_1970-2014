@@ -133,6 +133,10 @@ import datetime as dt
 
 ## Author
 
+Kenneth C. Medes
+
+## Purpose
+
 Created for geospatial analysis and earthquake pattern research.
 
 ## License
